@@ -15,28 +15,92 @@
 #include <cstring>
 #include <cmath>
 #include <algorithm>
+#include <iomanip>
 using namespace std;
 
 /*
  * 
  */
-class MyClass{
-    public:
-        int myNum;
-        string myString;
-};
+void imprimirLineas(char letra,int cantidad);
 
-
+//Datos:
+//Los números decimales y enteros se alinean a la derecha
+//En decimales se truncan a dos decimales (?)
+//Las cadenasde caracteres se alinean a la izquierda
 int main(int argc, char** argv) {
-    MyClass myObj;
+    //Primera impresión
+    int a=23, b=765, c=9;
+//    cout<<a;
+//    cout<<b;
+//    cout<<c;
+//    imprimirLineas('=',20);
+//    cout<<endl<<endl;
     
-    myObj.myNum = 15;
-    myObj.myString = "Some text";
+    //Segunda impresión
+//    a= 2351, b=765;
+//    cout.width(10);
+//    cout<<a<<endl;
+//    cout<<b<<endl;
+//    imprimirLineas('=',20);
     
-    cout<<myObj.myNum<<endl;
-    cout<<myObj.myString;
+    //Tercera impresión
+//    a=2351 , b=765, c=1234;
+//    cout.width(10);
+//    cout<<a<<b<<endl;
+//    cout<<c<<endl;
+    
+    //Cuarta impresión
+//    a=2351, b=765, c=1234;
+//    cout.width(10);
+//    cout<<a;
+//    cout.width(10);
+//    cout<<b<<endl;
+//    cout.width(10);
+//    cout<<c<<endl;    
+
+    //Quinta impresión
+//    a=2351, b=765, c=1234;
+//    cout<<setw(10)<<a<<setw(10)<<b<<endl;
+//    cout<<setw(10)<<c<<endl;
+    
+    //Sexta impresión
+//    a= 39963, b=765, c=1234;
+//    cout<<setw(10)<<a<<setw(10)<<b<<setw(10)<<c<<endl;
+//    cout<<left<<setw(10)<<a<<setw(10)<<b<<setw(10)<<c<<endl;
+//    cout<<right<<setw(10)<<a<<setw(10)<<b<<setw(10)<<c<<endl;
+    
+    a= 39963, b=765, c=1234;
+    cout<<setw(10)<<a<<setw(10)<<b<<setw(10)<<c<<endl;
+    cout.fill('0');
+    cout<<setw(10)<<a<<setw(10)<<b<<setw(10)<<c<<endl;
+    cout.fill(' ');
+    
+    cout<<setw(10)<<a<<setw(10)<<b<<setw(10)<<c<<endl;
+    cout<<setfill('X');
+    cout<<setw(10)<<a<<setw(10)<<b<<setw(10)<<c<<endl;
+    cout<<setfill(' ');
+    
+  
     return 0;
 }
+
+void imprimirLineas(char letra,int cantidad){
+    cout<<endl;
+    for(int i=0;i<=cantidad;i++){
+        cout<<"=";
+    }
+    cout<<endl;
+    
+}
+
+void ordenarArreglo(int arreglo[],int size){
+    for(int i=0;i<size;i++){
+        for(int j=0;j<size-1;j++){
+            if()
+        }
+    }
+}
+
 
 
 
