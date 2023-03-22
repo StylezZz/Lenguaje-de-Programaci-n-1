@@ -13,15 +13,34 @@
 #include <cstdlib>
 #include <iostream>
 #include <cstring>
+#include <cmath>
+#include <algorithm>
 using namespace std;
 
 /*
  * 
  */
+class MyClass{
+    public:
+        int myNum;
+        string myString;
+};
+
+
 int main(int argc, char** argv) {
-    int x;
-    cout<<"Hola Mundo";
+    MyClass myObj;
     
+    myObj.myNum = 15;
+    myObj.myString = "Some text";
+    
+    cout<<myObj.myNum<<endl;
+    cout<<myObj.myString;
     return 0;
 }
+
+
+
+
+
+
 
