@@ -19,7 +19,17 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-
+    int a = 23, b=763, c=9;
+    double p=3547.73621, q=1.735, r=0.005241;
+    char car,nombre[50],apellido[50];
+    int dd,mm,aa;
+    
+    cout.precision(2);
+    cout<<fixed
+    
+    cin>>a>>b>>c;
+    cout<<setw(10)<<a<<setw(10)<<b<<setw(10)<<c<<endl;
+    
     return 0;
 }
 
