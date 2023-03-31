@@ -10,7 +10,7 @@
 #include <iomanip>
 
 #include "funciones.h"
-#define MAXLINEAS 120
+#define MAXLINEAS 130
 using namespace std;
 
 //codigo año nombre/apellido/.. codigoCurso numCreditos notaObtenida fechaUltEva
@@ -51,35 +51,35 @@ void sacarFecha(int &dia,int &mes,int &anio,int fecha){
 void imprimoCurso(int pos,char *codCurso,double cantCreditos,int nota,int fechaUltEva,
         int yearIngreso,int falla){
     int dd,mm,aa;
+    pos++;
     sacarFecha(dd,mm,aa,fechaUltEva);
     cout.fill('0');
-    cout<<pos;
+    cout<<setw(3)<<pos;
     cout.fill(' ');
     if(nota>=11){
         //Aprobo el curso
-        cout<<"  "<<codCurso<<"    "<<cantCreditos<<"         "<<nota;
-        
-        cout<<"     "<<setw(4)<<right<<aa;
+        cout<<setprecision(2)<<fixed;
+        cout<<setw(10)<<codCurso<<setw(8)<<cantCreditos<<"         "<<nota;
+        cout<<"        "<<setw(4)<<right<<aa;
         cout.fill('0');
         cout<<"/"<<setw(2)<<right<<mm<<"/"<<setw(2)<<
                 right<<dd;
         cout.fill(' ');
         if(yearIngreso>aa){
-            cout<<setw(40)<<"ERROR FECHA";
+            cout<<setw(80)<<"ERROR FECHA";
             falla = 1;
         }
         cout<<endl;
     }else{
         //Desaprobo el curso
-        cout<<"                                                  "
-                <<codCurso<<
-                "    "<<cantCreditos<<"     "<<nota;
+        cout<<setw(73)<<codCurso;
+        cout<<setw(8)<<cantCreditos<<setw(8)<<nota;
         cout.fill('0');
         cout<<"     "<<setw(4)<<right<<aa<<"/"<<setw(2)<<right<<mm<<"/"<<setw(2)<<
                 right<<dd;
         cout.fill(' ');
         if(yearIngreso>aa){
-            cout<<setw(20)<<"ERROR FECHA";
+            cout<<setw(23)<<"ERROR FECHA";
             falla=1;
         }
         cout<<endl;
@@ -95,10 +95,11 @@ void leerCurso(char *codCurso,double &cantCreditos,int &nota,int &fechaUltEva){
 }
 
 void imprimirSegundaCabecera(){
-    cout<<setw(20)<<"CURSOS APROBADOS"<<setw(50)<<"CURSOS DESAPROBADOS";
+    cout<<setw(30)<<"CURSOS APROBADOS"<<setw(60)<<"CURSOS DESAPROBADOS";
     cout<<setw(40)<<"OBSERVACION"<<endl;
-    cout<<"No.  CODIGO    CREDITOS   NOTA   FECHA";
-    cout<<setw(45)<<"CODIGO    CREDITOS   NOTA   FECHA"<<endl;
+    cout<<"No."<<setw(10)<<"CODIGO"<<setw(10)<<"CREDITOS"<<setw(10)<<"NOTA";
+    cout<<setw(15)<<"FECHA";
+    cout<<setw(55)<<"CODIGO    CREDITOS   NOTA   FECHA"<<endl;
     imprimirLineas('-');
 }
 
@@ -114,8 +115,8 @@ void formatearNombre(char *nombre){
 
 void imprimirCabeceraAlumno(char *nombreAlumno,int codigoAlum,int yearIngreso){
     formatearNombre(nombreAlumno);
-    cout<<setw(10)<<"Alumno: "<<nombreAlumno;
-    cout<<"                 "<<setw(20)<<"Codigo: "<<yearIngreso<<" - ";
+    cout<<setw(15)<<"Alumno: "<<nombreAlumno;
+    cout<<setw(40)<<"Codigo: "<<yearIngreso<<" - ";
     cout.fill('0');
     cout<<setw(6)<<codigoAlum<<endl;
     cout.fill(' ');
@@ -131,7 +132,7 @@ void imprimirLineas(char c){
 }
 
 void imprimirCabecera(){
-    cout<<setw(70)<<"INFORMACION ACADEMICA DE LOS ESTUDIANTES"<<endl;
+    cout<<setw(75)<<"INFORMACION ACADEMICA DE LOS ESTUDIANTES"<<endl;
     imprimirLineas('=');
 }
 
