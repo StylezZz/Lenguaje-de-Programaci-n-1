@@ -6,88 +6,159 @@
 #include <iostream>
 #include <iomanip>
 #include <fstream>
-
+#include <valarray>
 #include "funciones.h"
-#define MAXLINEAS 100
+#define MAXLINEAS 120
 using namespace std;
 
-// dd/mm/aa dd/mm/aa dd/mm/aa
-// codigo letra nombre codLibro ddR/mmR/aaR precioLibro y así 
 
-void imprimirCabeceraUsuario(){
+void imprimirResumen(int cantLibros,double sumaDeudas){
+    imprimirLineas('=');
+    cout<<setw(15)<<"Cantidad de libros adeudados: ";
+    cout<<setw(10)<<cantLibros<<endl;
+    cout<<setw(15)<<"Total de deudas por multa: "<<setw(10)<<sumaDeudas<<endl;
+    imprimirLineas('=');
+}
+
+void imprimirCurso(char *codLibro,int fechaRetiro,double deudaxLibro,int primero){
+    int dd,mm,aa;
+    sacarFecha(dd,mm,aa,fechaRetiro);
+    cout<<setprecision(2)<<fixed;
+    if(primero==1){
+        cout<<setw(25)<<codLibro;
+        cout<<"       ";
+        cout.fill('0');
+        cout<<setw(2)<<right<<dd<<"/"<<setw(2)<<right<<mm
+                <<"/"<<setw(4)<<right<<aa;
+        cout.fill(' ');
+        if(deudaxLibro!=0){
+            //Si hay deuda
+            cout<<setw(21)<<"     EN DEUDA"<<endl;
+            cout<<setw(121)<<"Multa: $"<<deudaxLibro<<endl;
+        }else{
+            cout<<"---"<<endl;
+        }
+    }else{
+        cout<<setw(83)<<codLibro;
+        cout<<"       ";
+        cout.fill('0');
+        cout<<setw(2)<<right<<dd<<"/"<<setw(2)<<right<<mm
+                <<"/"<<setw(4)<<right<<aa;
+        cout.fill(' ');
+        if(deudaxLibro!=0){
+            //Si hay deuda
+            cout<<setw(21)<<"EN DEUDA"<<endl;
+            cout<<setw(121)<<"Multa: $"<<deudaxLibro<<endl;
+        }else{
+            cout<<"---"<<endl;
+        }
+    }
+}
+
+void mostrarSubtitulos(){
+    cout<<setw(20)<<"USUARIO"<<setw(50)<<"LIBROS PRESTADOS"<<endl;
     imprimirLineas('-');
-    cout<<setw(20)<<"USUARIO"<<setw(40)<<"LIBROS PRESTADOS"<<endl;
-    imprimirLineas('-');
-    cout<<"Carne No."<<setw(15)<<"Nombre"<<setw(40)<<"Tipo"<<setw(20)<<"Codigo";
-    cout<<setw(10)<<
+    cout<<"Carne No."<<setw(11)<<"Nombre"<<setw(32)<<"Tipo"<<setw(30)
+            <<"Codigo"<<setw(20)<<"F. de retiro"<<setw(20)<<"Observacion"<<endl;
+    imprimirLineas('-');    
 }
 
-
-void imprimirLibro(int carnet,char *nombrePersona,char tipoUsuario,
-                    char *codLibro,int fechaRetiro,int fechaAdm,int fechaDoc,
-                    int fechaEst){
-    imprimirCabeceraUsuario();
+void imprimirSegundoEncabezado(int numCarnet,char tipo,char *nombre){
+    mostrarSubtitulos();
+    cout<<numCarnet<<setw(30)<<nombre<<setw(20);
+    if(tipo=='E'){
+        cout<<"Estudiante"<<setw(20);
+    }else if(tipo=='D'){
+        cout<<"Docente"<<setw(20);
+    }else if(tipo=='A'){
+        cout<<"Administrativo"<<setw(20);
+    }
 }
 
-void leerLibro(char *codLibro,int &fechaRetiro,double &precioLibro){
-   int dd,mm,aa;
-   char c;
-   cin>>codLibro>>dd>>c>>mm>>c>>aa>>precioLibro;
-   fechaRetiro = dd + mm*100 + aa*10000;
+void calcularDeuda(int fechaAdm,int fechaDoc,int fechaEst,int fechaRetiro,
+                    char tipo,double &deuda,double precioLibro){
+    if(((fechaAdm-fechaRetiro)<0) or
+            ((fechaDoc-fechaRetiro)<0) or
+            ((fechaEst-fechaRetiro))<0){
+        //Significa que si hay deuda
+        if(tipo=='E'){
+            deuda = precioLibro*0.01;
+        }else if(tipo=='D'){
+            deuda = precioLibro*(2.25/100);
+        }else if(tipo=='A'){
+            deuda = precioLibro*(1.5/100);
+        }
+    }else{
+        //No hay deuda
+        deuda=0;
+    }
 }
+
+void leeCurso(char *codLibro,int &fechaRetiro,double &precioLibro,
+        double &deudaxLibro,char tipo,int fechaAdm,int fechaDoc,int fechaEst){
+    char c;
+    int dd,mm,aa;
+    cin>>codLibro;
+    cin>>dd>>c>>mm>>c>>aa>>precioLibro;
+    fechaRetiro= dd + mm*100 + aa*10000;
+    //Calcular la deuda
+    calcularDeuda(fechaAdm,fechaDoc,fechaEst,fechaRetiro,tipo,deudaxLibro,precioLibro);
+}
+
 
 void imprimirLineas(char c){
-    for(int i=0;i<=MAXLINEAS;i++){
-        cout<<c;
-    }
+    for(int i=0;i<=MAXLINEAS;i++)cout<<c;
     cout<<endl;
 }
 
 void sacarFecha(int &dd,int &mm,int &aa,int fecha){
-    dd=fecha%100;
+    dd= fecha%100;
     fecha/=100;
     mm=fecha%100;
     fecha/=100;
     aa=fecha;
 }
 
-void imprimirFechas(int fechaAdm,int fechaDoc,int fechaEst){
+void imprimirCabeceraYFechas(int fechaDoc,int fechaEst,int fechaAdm){
+    cout<<setw(50)<<"BIBLIOTECA GENERAL DE LA UNIVERSIDAD"<<endl;
+    imprimirLineas('=');
+    cout<<"Fechas limite de devolucion:"<<endl;
     int dd,mm,aa;
+    //Sacar la fecha
     sacarFecha(dd,mm,aa,fechaDoc);
-    cout<<setw(20)<<"Docentes: ";
+    cout<<"          "<<setw(30)<<left<<"Docentes: ";
     cout.fill('0');
     cout<<setw(2)<<right<<dd<<"/"<<setw(2)<<right<<mm<<"/"<<setw(4)<<right<<aa<<endl;
     cout.fill(' ');
     
     sacarFecha(dd,mm,aa,fechaEst);
-    cout<<setw(20)<<"Estudiante: ";
+    cout<<"          "<<setw(30)<<left<<"Estudiantes: ";
     cout.fill('0');
-    cout<<setw(2)<<right<<dd<<"/"<<setw(2)<<right<<mm<<"/"<<setw(4)<<right<<aa<<endl;
+    cout<<setw(2)<<right<<dd<<"/"<<setw(2)<<right<<mm<<"/"<<setw(4)
+            <<right<<aa<<endl;
     cout.fill(' ');
     
     sacarFecha(dd,mm,aa,fechaAdm);
-    cout<<setw(20)<<"Administrativo: ";
+    cout<<"          "<<setw(30)<<left<<"Administrativo: ";
     cout.fill('0');
-    cout<<setw(2)<<right<<dd<<"/"<<setw(2)<<right<<mm<<"/"<<setw(4)<<right<<aa<<endl;
+    cout<<setw(2)<<right<<dd<<"/"<<setw(2)<<right<<mm<<"/"<<setw(4)
+            <<right<<aa<<endl;
     cout.fill(' ');
+    
+    imprimirLineas('-');
 }
 
-void imprimirPrimerEncabezado(int fechaAdm,int fechaDoc,int fechaEst){
-    cout<<setw(50)<<"BIBLIOTECA GENERAL DE LA UNIVERSIDAD"<<endl;
-    imprimirLineas('=');
-    cout<<"Fechas limites de devolucion:"<<endl;
-    imprimirFechas(fechaAdm,fechaDoc,fechaEst);
-}
 
-void leerFecha(int &fecha){
-    char c;
+void leerUnaFecha(int &fecha){
     int dd,mm,aa;
+    char c;
     cin>>dd>>c>>mm>>c>>aa;
     fecha = dd + mm*100 + aa*10000;
 }
 
-void leerFechas(int &fechaAdm,int &fechaDoc,int &fechaEst){
-    leerFecha(fechaAdm);
-    leerFecha(fechaDoc);
-    leerFecha(fechaEst);
+void leerFechas(int &fechaDoc,int &fechasEst,int &fechasAdm){
+    leerUnaFecha(fechaDoc);
+    leerUnaFecha(fechasEst);
+    leerUnaFecha(fechasAdm);
 }
+

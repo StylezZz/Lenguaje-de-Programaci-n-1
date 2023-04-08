@@ -23,25 +23,45 @@ using namespace std;
 // dd/mm/aa dd/mm/aa dd/mm/aa
 // codigo letra nombre codLibro ddR/mmR/aaR precioLibro y así 
 int main(int argc, char** argv) {
-    int fechaAdm,fechaDoc,fechaEst,carnet;
-    int fechaRetiro;
-    char tipoUsuario,nombrePersona[100],codLibro[20];
-    double precioLibro;
-    leerFechas(fechaAdm,fechaDoc,fechaEst);
-    imprimirPrimerEncabezado(fechaAdm,fechaDoc,fechaEst);
+    int fechaDoc,fechaEst,fechaAdm;
+    leerFechas(fechaDoc,fechaEst,fechaAdm);
+    imprimirCabeceraYFechas(fechaDoc,fechaEst,fechaAdm);
+    
+    int numCarnet,fechaRetiro,cantLibrosAdeudados=0;
+    double totalDeudas=0,deudaxLibro=0,precioLibro;
+    char nombre[100],codLibro[20],tipo;
+    int primero=1,flag=0,inicio=0;
     while(1){
-        //Se leerá 123456789A
-        cin>>carnet>>tipoUsuario;
+        cin>>numCarnet>>tipo>>nombre;
+        if(cin.eof()){
+            imprimirResumen(cantLibrosAdeudados,totalDeudas);
+            break;
+        }
         if(cin.fail()){
-            leerLibro()
+            //Sigue leyendo cursos
+            cin.clear();
+            leeCurso(codLibro,fechaRetiro,precioLibro,deudaxLibro,tipo
+                    ,fechaAdm,fechaDoc,fechaEst);
+            if(deudaxLibro>0){
+                cantLibrosAdeudados++;
+                totalDeudas+=deudaxLibro;
+            }
+            imprimirCurso(codLibro,fechaRetiro,deudaxLibro,primero);
+            primero++;
         }else{
-            //Si es que no se halla fail entonces se lee un nombre
-            cin>>nombrePersona;
-            leerLibro(codLibro,fechaRetiro,precioLibro);
-            imprimirLibro(carnet,nombrePersona,tipoUsuario,codLibro,fechaRetiro
-                    fechaAdm,fechaDoc,fechaEst);
+            //Lee otro nombre
+            if(flag!=0){
+                imprimirResumen(cantLibrosAdeudados,totalDeudas);
+            }
+            imprimirSegundoEncabezado(numCarnet,tipo,nombre);
+            cantLibrosAdeudados=0;
+            totalDeudas=0;
+            primero=1;
+            flag=1;
+            
         }
     }
+    
     return 0;
 }
 

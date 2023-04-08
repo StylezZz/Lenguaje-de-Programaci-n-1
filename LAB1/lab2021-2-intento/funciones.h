@@ -13,11 +13,21 @@
 #ifndef FUNCIONES_H
 #define FUNCIONES_H
 
+
+void imprimirResumen(int cantLibros,double sumaDeudas);
+void imprimirCurso(char *codLibro,int fechaRetiro,double deudaxLibro,int primero);
+void mostrarSubtitulos();
+void imprimirSegundoEncabezado(int numCarnet,char tipo,char *nombre);
+void calcularDeuda(int fechaAdm,int fechaDoc,int fechaEst,int fechaRetiro,
+                    char tipo,double &deuda,double precioLibro);
+void leeCurso(char *codLibro,int &fechaRetiro,double &precioLibro,
+        double &deudaxLibro,char tipo,int fechaAdm,int fechaDoc,int fechaEst);
+void imprimirCabeceraYFechas(int fechaDoc,int fechaEst,int fechaAdm);
 void imprimirLineas(char c);
 void sacarFecha(int &dd,int &mm,int &aa,int fecha);
 void imprimirFechas(int fechaAdm,int fechaDoc,int fechaEst);
 void imprimirPrimerEncabezado(int fechaAdm,int fechaDoc,int fechaEst);
-void leerFecha(int &fecha);
+void leerUnaFecha(int &fecha);
 void leerFechas(int &fechaAdm,int &fechaDoc,int &fechaEst);
 
 #endif /* FUNCIONES_H */
