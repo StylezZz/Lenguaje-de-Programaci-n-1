@@ -1,0 +1,8 @@
+       DNI              NOMBRE
+  71984468         IPARRAGUIRRE_VILLEGAS_NICOLAS_EDILBERTO
+Cliente frecuente
+No.CODIGO    CANTIDAD            FECHA               
+1)    ABC123               10.4525/04/2022
+2)    ABC456                10.526/04/2022
+3)    ABC789               10.3430/04/2022
+Monto total comprado:        31.29
