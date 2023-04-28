@@ -26,34 +26,64 @@ int main(int argc, char** argv) {
     AperturaDeUnArchivoDeTextosParaLeer(archClientes,"Clientes.txt");
     AperturaDeUnArchivoDeTextosParaEscribir(archReporte,"Reporte.txt");
     
+    struct Estructura_ClienteRegistrado clientes[30],cliente1,cliente2;
     
-    struct Estructura_ClienteRegistrado cliente1,cliente2;
-    archClientes>>cliente1>>cliente2;
+    //La primera sobrecarga si funciona
+    //Probar la siguiente sobrecarga
+//    while(1){
+//        archClientes>>cliente;
+//        if(archClientes.eof())break;
+//        clientes+=cliente;
+//    }
+//    
+//    //La impresion del arreglo de estructuras de clientes
+//    for(int i=0;clientes[i].dni;i++){
+//        archReporte<<clientes[i];
+//    }
     
+    //La segunda sobrecarga si funciona
     
-    //Probadas con exito
-    //Probar la función de impresión de productos
-    struct Estructura_PedidoRealizado ped1,ped2,ped3;
-    ped1.cantidad = 10.45;
-    strcpy(ped1.codigo,"ABC123");
-    ped1.fecha = 20220425;
+//    archClientes>>cliente1>>cliente2;
+//    struct Estructura_PedidoRealizado ped1,ped2;
+//    ped1.cantidad =10.5;
+//    ped1.fecha = 20200626;
+//    strcpy(ped1.codigo,"ABABAB");
+//    
+//    ped2.cantidad =15.5;
+//    ped2.fecha = 20210116;
+//    strcpy(ped2.codigo,"XYZ321");
+//    
+//    cliente1+=ped1;
+//    cliente1+=ped2;
+//    
+//    cliente2+=ped2;
+//    cliente2+=ped1;
+//    
+//    archReporte<<cliente1<<cliente2;
     
-    ped2.cantidad = 10.5;
-    strcpy(ped2.codigo,"ABC456");
-    ped2.fecha = 20220426;
+    //La tercera Sobrecarga funciona
+    struct Estructura_ProductosEnAlmacen productos[30],prod1,prod2,prod3,prodPrueba;
     
-    ped3.cantidad = 10.34;
-    strcpy(ped3.codigo,"ABC789");
-    ped3.fecha = 20220430;
+    strcpy(prod1.codigo,"DOB245");
+    strcpy(prod1.descripcion,"LECHE_LALA_SEMI_DESLACTOSADA_1LT");
+    prod1.descuento=0;
+    prod1.precioUnitario=16.98;
     
-    cliente1+=ped1;
-    cliente1+=ped2;
-    cliente1+=ped3;
+    strcpy(prod2.codigo,"QBL949");
+    strcpy(prod2.descripcion,"YOGHURT_NATURAL_LIGHT_LALA_1KG");
+    prod2.descuento=4.7;
+    prod2.precioUnitario=25.86;
     
-    archReporte<<cliente1;
-    
-    //Ingreso de un pedido a un cliente con exito
-    
+    strcpy(prod3.codigo,"DOB245");
+    strcpy(prod3.descripcion,"LECHE_LALA_SEMI_DESLACTOSADA_1LT");
+    prod3.descuento=0;
+    prod3.precioUnitario=16.98;
+    strcpy(productos[0].codigo,"X");
+    productos+=prod1;
+    productos+=prod2;
+    productos+=prod3;
+    //Todas las sobrecargas funcionan
+    archReporte<<productos;
     
     
     return 0;

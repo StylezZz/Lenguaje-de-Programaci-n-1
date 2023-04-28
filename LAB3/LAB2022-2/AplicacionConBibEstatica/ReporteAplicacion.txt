@@ -1,0 +1,620 @@
+         EMPRESA PRESTADORA DE SALUD LP1
+                    PACIENTES QUE FUERON ATENDIDOS
+====================================================================================================
+  DNI              NOMBRE            TELEFONO
+43704548            Vizcardo/Maribel              960851431
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   09/09/2022         892133                                  0.00
+ 2)   09/09/2022         892133                                  0.00
+ 3)   09/09/2022         892133                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+36471787            Pena/Glenda                   480411757
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   16/01/2023         600493                                  0.00
+ 2)   16/01/2023         600493                                  0.00
+ 3)   16/01/2023         600493                                  0.00
+ 4)   16/01/2023         600493                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+71422479            Lozada/Felicita               680516877
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   17/08/2022         703676                                  0.00
+ 2)   17/08/2022         703676                                  0.00
+ 3)   17/08/2022         703676                                  0.00
+ 4)   17/08/2022         703676                                  0.00
+ 5)   17/08/2022         703676                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+51465986            Sam/Ines                      676247212
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   05/08/2022         702339                                  0.00
+ 2)   05/08/2022         702339                                  0.00
+ 3)   05/08/2022         702339                                  0.00
+ 4)   05/08/2022         702339                                  0.00
+ 5)   05/08/2022         702339                                  0.00
+ 6)   05/08/2022         702339                                  0.00
+ 7)   05/08/2022         702339                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+20371464            Lozada/Heli                   915825030
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   28/08/2022         147871                                  0.00
+ 2)   28/08/2022         147871                                  0.00
+ 3)   28/08/2022         147871                                  0.00
+ 4)   28/08/2022         147871                                  0.00
+ 5)   28/08/2022         147871                                  0.00
+ 6)   28/08/2022         147871                                  0.00
+ 7)   28/08/2022         147871                                  0.00
+ 8)   28/08/2022         147871                                  0.00
+ 9)   28/08/2022         147871                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+36934113            Serrano/Arturo                343899369
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   17/08/2022         497687                                  0.00
+ 2)   17/08/2022         497687                                  0.00
+ 3)   17/08/2022         497687                                  0.00
+ 4)   17/08/2022         497687                                  0.00
+ 5)   17/08/2022         497687                                  0.00
+ 6)   17/08/2022         497687                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+15290194            Hernandez/Guillermo           624395862
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   09/02/2023         892133                                  0.00
+ 2)   09/02/2023         892133                                  0.00
+ 3)   09/02/2023         892133                                  0.00
+ 4)   09/02/2023         892133                                  0.00
+ 5)   09/02/2023         892133                                  0.00
+ 6)   09/02/2023         892133                                  0.00
+ 7)   09/02/2023         892133                                  0.00
+ 8)   09/02/2023         892133                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+85395219            Fuentes/Patricia              890128958
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   12/08/2022         197775                                  0.00
+ 2)   12/08/2022         197775                                  0.00
+ 3)   12/08/2022         197775                                  0.00
+ 4)   12/08/2022         197775                                  0.00
+ 5)   12/08/2022         197775                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+93961840            Pairazaman/Tatiana            753142166
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   26/01/2023         520631                                  0.00
+ 2)   26/01/2023         520631                                  0.00
+ 3)   26/01/2023         520631                                  0.00
+ 4)   26/01/2023         520631                                  0.00
+ 5)   26/01/2023         520631                                  0.00
+ 6)   26/01/2023         520631                                  0.00
+ 7)   26/01/2023         520631                                  0.00
+ 8)   26/01/2023         520631                                  0.00
+ 9)   26/01/2023         520631                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+61061535            Solis/Maria                   737275515
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   02/10/2022         201895                                  0.00
+ 2)   02/10/2022         201895                                  0.00
+ 3)   02/10/2022         201895                                  0.00
+ 4)   02/10/2022         201895                                  0.00
+ 5)   02/10/2022         201895                                  0.00
+ 6)   02/10/2022         201895                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+62126128            Durand/Enrique                122222040
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   02/08/2022         497687                                  0.00
+ 2)   02/08/2022         497687                                  0.00
+ 3)   02/08/2022         497687                                  0.00
+ 4)   02/08/2022         497687                                  0.00
+ 5)   02/08/2022         497687                                  0.00
+ 6)   02/08/2022         497687                                  0.00
+ 7)   02/08/2022         497687                                  0.00
+ 8)   02/08/2022         497687                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+54815159            Patino/Delicia                206563313
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   28/02/2023         909077                                  0.00
+ 2)   28/02/2023         909077                                  0.00
+ 3)   28/02/2023         909077                                  0.00
+ 4)   28/02/2023         909077                                  0.00
+ 5)   28/02/2023         909077                                  0.00
+ 6)   28/02/2023         909077                                  0.00
+ 7)   28/02/2023         909077                                  0.00
+ 8)   28/02/2023         909077                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+91187814            Narvaez/Jesus                 217355048
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   17/08/2022         915098                                  0.00
+ 2)   17/08/2022         915098                                  0.00
+ 3)   17/08/2022         915098                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+51642949            Miranda/Alfonso               922420457
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   03/08/2022         702694                                  0.00
+ 2)   03/08/2022         702694                                  0.00
+ 3)   03/08/2022         702694                                  0.00
+ 4)   03/08/2022         702694                                  0.00
+ 5)   03/08/2022         702694                                  0.00
+ 6)   03/08/2022         702694                                  0.00
+ 7)   03/08/2022         702694                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+45201670            Guevara/Milena                903110724
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   27/08/2022         341150                                  0.00
+ 2)   27/08/2022         341150                                  0.00
+ 3)   27/08/2022         341150                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+31284904            Sakaguchi/Carlos              703752482
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   01/10/2022         802270                                  0.00
+ 2)   01/10/2022         802270                                  0.00
+ 3)   01/10/2022         802270                                  0.00
+ 4)   01/10/2022         802270                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+93282118            Zambrano/Ofelia               138628867
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   09/02/2023         600493                                  0.00
+ 2)   09/02/2023         600493                                  0.00
+ 3)   09/02/2023         600493                                  0.00
+ 4)   09/02/2023         600493                                  0.00
+ 5)   09/02/2023         600493                                  0.00
+ 6)   09/02/2023         600493                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+34697743            Ayala/Ericka                  587272727
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   18/03/2023         535567                                  0.00
+ 2)   18/03/2023         535567                                  0.00
+ 3)   18/03/2023         535567                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+68114999            Rios/Ines                     893464725
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   26/08/2022         497687                                  0.00
+ 2)   26/08/2022         497687                                  0.00
+ 3)   26/08/2022         497687                                  0.00
+ 4)   26/08/2022         497687                                  0.00
+ 5)   26/08/2022         497687                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+95656771            Raffo/Rolando                 685781560
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   19/08/2022         800631                                  0.00
+ 2)   19/08/2022         800631                                  0.00
+ 3)   19/08/2022         800631                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+54149342            Leyva/Diana                   373707475
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   06/08/2022         497687                                  0.00
+ 2)   06/08/2022         497687                                  0.00
+ 3)   06/08/2022         497687                                  0.00
+ 4)   06/08/2022         497687                                  0.00
+ 5)   06/08/2022         497687                                  0.00
+ 6)   06/08/2022         497687                                  0.00
+ 7)   06/08/2022         497687                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+99891737            Contreras/Johana              973415589
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   05/08/2022         909295                                  0.00
+ 2)   05/08/2022         909295                                  0.00
+ 3)   05/08/2022         909295                                  0.00
+ 4)   05/08/2022         909295                                  0.00
+ 5)   05/08/2022         909295                                  0.00
+ 6)   05/08/2022         909295                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+93939698            Henriquez/Silvana             459353442
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   14/08/2022         702339                                  0.00
+ 2)   14/08/2022         702339                                  0.00
+ 3)   14/08/2022         702339                                  0.00
+ 4)   14/08/2022         702339                                  0.00
+ 5)   14/08/2022         702339                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+32538825            Hijar/Martin                  552348311
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   06/02/2023         187089                                  0.00
+ 2)   06/02/2023         187089                                  0.00
+ 3)   06/02/2023         187089                                  0.00
+ 4)   06/02/2023         187089                                  0.00
+ 5)   06/02/2023         187089                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+63640178            Rodriguez/Blanca              979357318
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   30/08/2022         905627                                  0.00
+ 2)   30/08/2022         905627                                  0.00
+ 3)   30/08/2022         905627                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+35852072            Jauregui/Victor               954019148
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   15/08/2022         182620                                  0.00
+ 2)   15/08/2022         182620                                  0.00
+ 3)   15/08/2022         182620                                  0.00
+ 4)   15/08/2022         182620                                  0.00
+ 5)   15/08/2022         182620                                  0.00
+ 6)   15/08/2022         182620                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+72330000            Vega/Carmela                  322515219
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   27/10/2022         907988                                  0.00
+ 2)   27/10/2022         907988                                  0.00
+ 3)   27/10/2022         907988                                  0.00
+ 4)   27/10/2022         907988                                  0.00
+ 5)   27/10/2022         907988                                  0.00
+ 6)   27/10/2022         907988                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+80694546            Ramirez/Karina                976115294
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   29/08/2022         197775                                  0.00
+ 2)   29/08/2022         197775                                  0.00
+ 3)   29/08/2022         197775                                  0.00
+ 4)   29/08/2022         197775                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+81647285            Vega/Henrry                   966706570
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   01/08/2022         702694                                  0.00
+ 2)   01/08/2022         702694                                  0.00
+ 3)   01/08/2022         702694                                  0.00
+ 4)   01/08/2022         702694                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+72973662            Vargas/Daniel                 323159471
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   20/08/2022         909077                                  0.00
+ 2)   20/08/2022         909077                                  0.00
+ 3)   20/08/2022         909077                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+93231760            Zarate/Alexander              896774499
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   04/10/2022         802270                                  0.00
+ 2)   04/10/2022         802270                                  0.00
+ 3)   04/10/2022         802270                                  0.00
+ 4)   04/10/2022         802270                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+77324146            Moscoso/Janet                 740909448
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   14/12/2022         600493                                  0.00
+ 2)   14/12/2022         600493                                  0.00
+ 3)   14/12/2022         600493                                  0.00
+ 4)   14/12/2022         600493                                  0.00
+ 5)   14/12/2022         600493                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+51873364            Calixto/Erick                 175280362
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   26/08/2022         702694                                  0.00
+ 2)   26/08/2022         702694                                  0.00
+ 3)   26/08/2022         702694                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+45914393            Lozada/Antonio                356363924
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   13/08/2022         354519                                  0.00
+ 2)   13/08/2022         354519                                  0.00
+ 3)   13/08/2022         354519                                  0.00
+ 4)   13/08/2022         354519                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+35347567            Sedano/Elia                   470481309
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   04/04/2023         150928                                  0.00
+ 2)   04/04/2023         150928                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+34571095            Infantes/Luis                 539722326
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   01/09/2022         535567                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+49357767            Solis/Rolando                 268485732
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   29/08/2022         702339                                  0.00
+ 2)   29/08/2022         702339                                  0.00
+ 3)   29/08/2022         702339                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+13731806            Salamanca/Virginia            504346365
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   14/01/2023         506117                                  0.00
+ 2)   14/01/2023         506117                                  0.00
+ 3)   14/01/2023         506117                                  0.00
+ 4)   14/01/2023         506117                                  0.00
+ 5)   14/01/2023         506117                                  0.00
+ 6)   14/01/2023         506117                                  0.00
+ 7)   14/01/2023         506117                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+22679759            Bravo/Janet                   639486017
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   26/08/2022         909295                                  0.00
+ 2)   26/08/2022         909295                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+94683380            Farfan/Margot                 654189411
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   15/03/2023         706122                                  0.00
+ 2)   15/03/2023         706122                                  0.00
+ 3)   15/03/2023         706122                                  0.00
+ 4)   15/03/2023         706122                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+92275859            Egusquiza/Doris               340934240
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   19/08/2022         800631                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+35606314            Mercado/Elia                  861780261
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   17/11/2022         800404                                  0.00
+ 2)   17/11/2022         800404                                  0.00
+ 3)   17/11/2022         800404                                  0.00
+ 4)   17/11/2022         800404                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+65912822            Camacho/Ydali                 938453880
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   12/02/2023         201895                                  0.00
+ 2)   12/02/2023         201895                                  0.00
+ 3)   12/02/2023         201895                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+59561864            Rosemberg/Julio               762180890
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   09/02/2023         254488                                  0.00
+ 2)   09/02/2023         254488                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+59596317            Justino/Virginia              900594107
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   27/10/2022         146552                                  0.00
+ 2)   27/10/2022         146552                                  0.00
+ 3)   27/10/2022         146552                                  0.00
+ 4)   27/10/2022         146552                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+52313890            Rivero/Wilver                 744249340
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   25/10/2022         254488                                  0.00
+ 2)   25/10/2022         254488                                  0.00
+ 3)   25/10/2022         254488                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+37282858            Soma/Lourdes                  227523525
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   09/02/2023         905627                                  0.00
+ 2)   09/02/2023         905627                                  0.00
+ 3)   09/02/2023         905627                                  0.00
+ 4)   09/02/2023         905627                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+27709566            Ortiz/Raul                    796752488
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   29/08/2022         404143                                  0.00
+ 2)   29/08/2022         404143                                  0.00
+ 3)   29/08/2022         404143                                  0.00
+ 4)   29/08/2022         404143                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+41964357            Arca/Magali                   826306601
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   29/12/2022         907988                                  0.00
+ 2)   29/12/2022         907988                                  0.00
+ 3)   29/12/2022         907988                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+14956687            Luna/Waldemar                 346368780
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   22/10/2022         702694                                  0.00
+ 2)   22/10/2022         702694                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+77440060            Escalante/Emigdio             261313606
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   21/08/2022         197775                                  0.00
+ 2)   21/08/2022         197775                                  0.00
+ 3)   21/08/2022         197775                                  0.00
+ 4)   21/08/2022         197775                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+62287143            Wong/Beatriz                  146854741
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   07/04/2023         609349                                  0.00
+ 2)   07/04/2023         609349                                  0.00
+ 3)   07/04/2023         609349                                  0.00
+ 4)   07/04/2023         609349                                  0.00
+ 5)   07/04/2023         609349                                  0.00
+ 6)   07/04/2023         609349                                  0.00
+ 7)   07/04/2023         609349                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+28992638            Trigueros/Luz                 114153263
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   02/04/2023         801383                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+53420926            Prado/Juan                    470373331
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   26/08/2022         507183                                  0.00
+ 2)   26/08/2022         507183                                  0.00
+ 3)   26/08/2022         507183                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+86988155            Cerna/Cinthia                 745522518
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   27/11/2022         909077                                  0.00
+ 2)   27/11/2022         909077                                  0.00
+ 3)   27/11/2022         909077                                  0.00
+ 4)   27/11/2022         909077                                  0.00
+ 5)   27/11/2022         909077                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+90367684            Sinche/Yvonne                 783649119
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   12/03/2023         600493                                  0.00
+ 2)   12/03/2023         600493                                  0.00
+ 3)   12/03/2023         600493                                  0.00
+ 4)   12/03/2023         600493                                  0.00
+ 5)   12/03/2023         600493                                  0.00
+ 6)   12/03/2023         600493                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+22598563            Sueldo/Adria                  253269588
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   08/11/2022         801383                                  0.00
+ 2)   08/11/2022         801383                                  0.00
+ 3)   08/11/2022         801383                                  0.00
+ 4)   08/11/2022         801383                                  0.00
+ 5)   08/11/2022         801383                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+30246960            Escalante/Ines                976841944
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   07/03/2023         187089                                  0.00
+ 2)   07/03/2023         187089                                  0.00
+ 3)   07/03/2023         187089                                  0.00
+ 4)   07/03/2023         187089                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+58643376            Arroyo/Natalia                444012515
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   17/08/2022         801383                                  0.00
+ 2)   17/08/2022         801383                                  0.00
+ 3)   17/08/2022         801383                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+81539774            Alfaro/Erick                  683768197
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   02/08/2022         703676                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+17299012            Suarez/Amaru                  296011887
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   04/04/2023         644057                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+12484697            Diaz/Enrique                  331859358
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   17/08/2022         802270                                  0.00
+ 2)   17/08/2022         802270                                  0.00
+ 3)   17/08/2022         802270                                  0.00
+ 4)   17/08/2022         802270                                  0.00
+ 5)   17/08/2022         802270                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+57182371            Moscoso/Fiorella              531838148
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   30/08/2022         601846                                  0.00
+ 2)   30/08/2022         601846                                  0.00
+ 3)   30/08/2022         601846                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+66039166            Chavez/Johan                  768705362
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   13/09/2022         341150                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+68269451            Asmad/Adria                   233585092
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   06/08/2022         354519                                  0.00
+ 2)   06/08/2022         354519                                  0.00
+ 3)   06/08/2022         354519                                  0.00
+ 4)   06/08/2022         354519                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+75100362            Arca/Lucero                   246213116
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   16/08/2022         807862                                  0.00
+MONTO TOTAL GASTADO:  0.00
+  DNI              NOMBRE            TELEFONO
+66091742            Baca/Milagros                 845718743
+RELACION DE CITAS
+No.     FECHA   CODIGO DEL MEDICO        ESPECIALIDAD    TARIFA
+ 1)   17/12/2022         807862                                  0.00
+ 2)   17/12/2022         807862                                  0.00
+MONTO TOTAL GASTADO:  0.00

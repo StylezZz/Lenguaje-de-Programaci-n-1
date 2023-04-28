@@ -1,0 +1,12 @@
+       DNI              NOMBRE
+  71984468         IPARRAGUIRRE_VILLEGAS_NICOLAS_EDILBERTO
+Cliente frecuente
+No.CODIGO    CANTIDAD            FECHA               
+Monto total comprado:         0.00
+       DNI              NOMBRE
+  29847168         ALDAVE_ZEVALLOS_ROSARIO
+Cliente muy frecuente
+No.CODIGO    CANTIDAD            FECHA               
+Monto total comprado:         0.00
+                   PRODUCTOS ALMACENADOS
+No.    Codigo         Descripcion     Precio Unitario Descuento
