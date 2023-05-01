@@ -1,0 +1,8 @@
+Cuenta productos en los almacenes
+Nombre del producto                                         Codigo del Producto      Cantidad de Palets  
+--------------------------------------------------------------------------------------------------------------
+CEMENTO ANDINO                                                   A1000604                     0
+CEMENTO SOL                                                      A1000602                     0
+LADRILLOS LARK                                                   A1000601                     0
+TEJAS ROJAS                                                      A1000608                     0
+цлллллллллллл▀ЪU▀Л┐ДЬ│ЛЛ                                        ;ЫSшЩ÷                       0

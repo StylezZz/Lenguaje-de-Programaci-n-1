@@ -1,0 +1,7 @@
+Productos en el almacen
+CODIGO    NOMBRE
+A1000601  LADRILLOS LARK
+A1000602  CEMENTO SOL
+A1000604  CEMENTO ANDINO 
+A1000608  TEJAS ROJAS
+;ЫSшЩ÷    цлллллллллллл▀ЪU▀Л┐ДЬ│ЛЛ
