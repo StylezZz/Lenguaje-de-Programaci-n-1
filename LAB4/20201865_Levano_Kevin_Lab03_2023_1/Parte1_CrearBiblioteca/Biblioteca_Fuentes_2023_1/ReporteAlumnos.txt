@@ -1,0 +1,10 @@
+SEMESTRE CODIGO NOMBRE           MODALIDAD              ESCALA
+20211      1260          GORDILLO/CASTRO/RONAL                    PRESENCIAL 2
+Codigos de cursos matriculados: 
+Numero de Cursos: 0
+Costo total: 0
+SEMESTRE CODIGO NOMBRE           MODALIDAD              ESCALA
+20211      1397          ZEVALLOS/PRADO/RICARDO                   SEMIPRESENCIAL CON 50% 2
+Codigos de cursos matriculados: 
+Numero de Cursos: 0
+Costo total: 0

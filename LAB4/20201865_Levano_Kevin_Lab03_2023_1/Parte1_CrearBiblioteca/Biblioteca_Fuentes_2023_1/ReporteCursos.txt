@@ -1,0 +1,22 @@
+    CODIGO              NOMBRE            CREDITOS
+  INF263          Algoritmia           3.75
+PROFESOR: INGA FLORES CESAR ADOLFO [35030611 ]
+Alumnos matriculados: 
+Semestre Codigo
+Numero de alumnos: 0
+Total ingresado: 0
+    CODIGO              NOMBRE            CREDITOS
+  MEC289          Procesos_De_Manufactura    4
+PROFESOR: PAIRAZAMAN ALAMO MOISES MIGUEL [83265244 ]
+Alumnos matriculados: 
+Semestre Codigo
+Numero de alumnos: 0
+Total ingresado: 0
+    CODIGO              NOMBRE            CREDITOS
+  INF263          Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo 4.25
+PROFESOR: DELGADO GONZALES GUILLERMO ALFONSO [49516360 ]
+Alumnos matriculados: 
+Semestre Codigo
+                   0      7344
+Numero de alumnos: 1
+Total ingresado: 0
