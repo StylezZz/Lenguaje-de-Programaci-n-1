@@ -1,0 +1,145 @@
+ENTIDAD EDUCATIVA LP1
+LISTADOS DE CLASE
+========================================================================================================================
+1)Cursos:Aplicaciones de las Ciencias de la Computacion Creditos:3.5
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                 PAGOS
+      CODIGO                        NOMBRE    ESCALA     PRESENCIALSEMI PRESENCIAL     VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+ 1)      8072   RIVERA MONTERO GLORIA OFELIA            3         
+ 3)      4919   CORTES CALIXTO ROSARIO                  5         
+ 5)      5527   JUSTINO COLLADO LUZ DELICIA             3         
+ 7)      6038   SAONA ARIAS ALBERTO                     4         
+ 9)      4628   PALOMARES GUEVARA KARINA                5         
+11)      5067   JAUREGUI AGUERO HECTOR HENRY            4         
+13)      4285   CHAVARRI ALDAVE FERNANDO MARTIN         2         
+15)      3627   CHAVEZ CARO YVONNE                      1         
+17)      6517   ZEGARRA CUBA ANTONIO                    2         
+19)      9958   QUISPE BERROCAL ANTONIO ALVARO DANIEL   3         
+21)      2000   LANDA CUEVA JOHAN                       4         
+23)      5724   VEGA SAENZ ALEXANDER RICHARD            4         
+25)      3249   NORABUENA PAIRAZAMAN JULIAN             3         
+27)      5400   SANTISTEBAN JUGO NESTOR                 1         
+29)      1397   ZEVALLOS PRADO RICARDO                  2         
+31)      9437   ZIMIC PAREDES SHIRLEY                   4         
+33)      6015   ALFARO FUENTES MAGDA                    3         
+35)      8320   NORABUENA RIVERA GLORIA YESSICA         5         
+37)      1247   SERRANO JOLAY RHONY ROLANDO             5         
+39)      9707   MIRANDA LARRIEGA JUVENAL NESTOR         2         
+2)Cursos:Lenguaje de Programacion 1     Creditos:5
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                 PAGOS
+      CODIGO                        NOMBRE    ESCALA     PRESENCIALSEMI PRESENCIAL     VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+ 1)      6995   LARRIEGA ARCA ISABEL MADELEINE          5         
+ 3)      5527   JUSTINO COLLADO LUZ DELICIA             3         
+ 5)      5400   SANTISTEBAN JUGO NESTOR                 1         
+ 7)      3745   CARO QUISPE JORGE                       1         
+ 9)      1325   MORI ARROYO SHIRLEY                     3         
+11)      8383   GORDILLO BOLANOS ARTURO GONZALO         3         
+13)      2598   MORI ZAVALETA LUZ LOURDES               1         
+15)      9611   MALDONADO CORREA LUCERO CAROLA          2         
+17)      6490   TAVERA CORREA FERNANDO                  2         
+19)      6929   BOLANOS FUENTES JORGE                   2         
+21)      3627   CHAVEZ CARO YVONNE                      1         
+23)      3402   VIZCARDO MORI LUCERO ZKENIA             1         
+25)      5775   PRADO PAREDES JUAN                      3         
+27)      4919   CORTES CALIXTO ROSARIO                  5         
+29)      3758   SOMA INGA DIALY                         1         
+31)      3373   ESCALANTE RARAZ BLANCA                  3         
+33)      5067   JAUREGUI AGUERO HECTOR HENRY            4         
+35)      2501   CORTES REYES MARIBEL                    2         
+37)      4712   CASANOVA CHUMPITAZ ALONSO               2         
+39)      1748   PATINO FUENTES MILAGROS MARIELLA        4         
+41)      1155   CORRALES ZIMIC JAIME DANIEL             5         
+43)      6038   SAONA ARIAS ALBERTO                     4         
+45)      2360   VILCA BARRERA CESAR EDGAR               5         
+47)      5643   IBEROS ZAMBRANO GONZALO                 2         
+49)      7660   CHANG ARGUEDAS HENRY ANTONIO            4         
+3)Cursos:Lenguaje de Programacion 2     Creditos:5
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                 PAGOS
+      CODIGO                        NOMBRE    ESCALA     PRESENCIALSEMI PRESENCIAL     VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+ 1)      4628   PALOMARES GUEVARA KARINA                5         
+ 3)      5724   VEGA SAENZ ALEXANDER RICHARD            4         
+ 5)      1325   MORI ARROYO SHIRLEY                     3         
+ 7)      6249   WONG GALLO JANET MADELEINE              1         
+ 9)      3508   AURIS JOLAY HENRY EDILBERTO             5         
+11)      3627   CHAVEZ CARO YVONNE                      1         
+13)      2501   CORTES REYES MARIBEL                    2         
+15)      6490   TAVERA CORREA FERNANDO                  2         
+17)      5318   FLORENCIO LAM PAUL RONALD               3         
+19)      5763   CORREA AGUIRRE MOISES                   2         
+21)      4739   VELASQUEZ CANO FERNANDO                 4         
+23)      9437   ZIMIC PAREDES SHIRLEY                   4         
+25)      4569   RIVERA PASQUEL OFELIA CINTHIA           5         
+27)      9785   FARFAN RARAZ WALDEMAR                   4         
+29)      2360   VILCA BARRERA CESAR EDGAR               5         
+31)      4285   CHAVARRI ALDAVE FERNANDO MARTIN         2         
+33)      2000   LANDA CUEVA JOHAN                       4         
+35)      6038   SAONA ARIAS ALBERTO                     4         
+37)      1260   GORDILLO CASTRO RONAL                   2         
+39)      8383   GORDILLO BOLANOS ARTURO GONZALO         3         
+41)      2050   LOYOLA HIJAR NICOLAS OSCAR              4         
+43)      3758   SOMA INGA DIALY                         1         
+45)      7030   LUNA POLO SONIA                         3         
+47)      9153   MENDOZA ARIAS HENRY                     4         
+49)      1247   SERRANO JOLAY RHONY ROLANDO             5         
+4)Cursos:Algoritmia                     Creditos:3.75
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                 PAGOS
+      CODIGO                        NOMBRE    ESCALA     PRESENCIALSEMI PRESENCIAL     VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+ 1)      7344   DEL_POZO QUIO CESAR                     3         
+ 3)      2000   LANDA CUEVA JOHAN                       4         
+ 5)      2050   LOYOLA HIJAR NICOLAS OSCAR              4         
+ 7)      7030   LUNA POLO SONIA                         3         
+ 9)      1260   GORDILLO CASTRO RONAL                   2         
+11)      7316   RIVERO RETT RONY ANTONIO                2         
+13)      4712   CASANOVA CHUMPITAZ ALONSO               2         
+15)      3249   NORABUENA PAIRAZAMAN JULIAN             3         
+17)      9719   MAEIREIZO VASQUEZ LOURDES SILVIA        2         
+19)      4285   CHAVARRI ALDAVE FERNANDO MARTIN         2         
+21)      5763   CORREA AGUIRRE MOISES                   2         
+23)      6015   ALFARO FUENTES MAGDA                    3         
+25)      4918   PORTUGAL GUEVARA HELI JOHANA            5         
+27)      9958   QUISPE BERROCAL ANTONIO ALVARO DANIEL   3         
+29)      2447   VILCA JUSTINO MELVIN                    1         
+5)Cursos:Analisis de Datos              Creditos:3
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                 PAGOS
+      CODIGO                        NOMBRE    ESCALA     PRESENCIALSEMI PRESENCIAL     VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+ 1)      5775   PRADO PAREDES JUAN                      3         
+ 3)      3508   AURIS JOLAY HENRY EDILBERTO             5         
+ 5)      2447   VILCA JUSTINO MELVIN                    1         
+ 7)      6929   BOLANOS FUENTES JORGE                   2         
+ 9)      1155   CORRALES ZIMIC JAIME DANIEL             5         
+6)Cursos:Fundamentos de Programacion    Creditos:4
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                 PAGOS
+      CODIGO                        NOMBRE    ESCALA     PRESENCIALSEMI PRESENCIAL     VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+ 1)      7660   CHANG ARGUEDAS HENRY ANTONIO            4         
+ 3)      5778   MUNOZ ZIMIC ROCIO DELICIA               2         
+ 5)      8318   TOKESHI GONZALES MARTIN                 1         
+ 7)      5494   DE_LA_HAZA CASTRO EMIGDIO JOHNNY        2         
+ 9)      6453   MINAYA VIZCARRA JUVENAL                 3         
+11)      1155   CORRALES ZIMIC JAIME DANIEL             5         
+13)      2742   ZAVALETA LOPEZ KARIN VIRGINIA           5         
+15)      3122   CUBA NARVAEZ PAUL JOHN                  2         
+17)      4918   PORTUGAL GUEVARA HELI JOHANA            5         
+19)      5318   FLORENCIO LAM PAUL RONALD               3         
