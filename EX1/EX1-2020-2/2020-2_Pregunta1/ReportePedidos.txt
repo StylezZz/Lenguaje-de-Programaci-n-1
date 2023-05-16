@@ -1,0 +1,66 @@
+Reporte de pedido
+====================================================================================================
+Fecha            RUC   Cod.Producto    Nombre-Prod       Cant.Sol  Cant.Atendida
+22612       20101000           1233Gaseosa Koka Kola             20              0
+202712       20101000           1233Gaseosa Koka Kola             10              0
+192812       20101000           2233   Cafe Tostado             10              0
+202812       20101000           1233Gaseosa Koka Kola             20              0
+32912       20101000           2244Galletas de Soda Sayon             30              0
+42912       20101000            250  Huevos Pardos             20              0
+102312       22110500           1233Gaseosa Koka Kola             20              0
+202312       22110500           2525 Aceite Vegetal             20              0
+102412       22110500           2526Papel Higienico Suave Sense             30              0
+122412       22110500           1150   Pollo Entero              5              0
+22512       22110500           2233   Cafe Tostado             20              0
+102512       22110500           1233Gaseosa Koka Kola             20              0
+202512       22110500            250  Huevos Pardos             20              0
+122412       21118080             22Platos Plasticos            100              0
+122512       21118080           1002        Secador            100              0
+22612       21118080           8585Harina preparada de trigo Blanca Nieve Especial             25              0
+122612       21118080           2244Galletas de Soda Sayon             40              0
+202612       21118080           2233   Cafe Tostado             10              0
+222612       21118080           6955Jarras de Ceramica China            100              0
+42512       20101233           2344Gaseosa Koka Kola Zero             30              0
+102512       20101233           2233   Cafe Tostado             20              0
+172512       20101233           1233Gaseosa Koka Kola             30              0
+102612       20101233           2244Galletas de Soda Sayon             40              0
+152612       20101233            250  Huevos Pardos             20              0
+102712       20101233           2233   Cafe Tostado             20              0
+132712       20101233           4545Pan Integral 20 piezas             20              0
+102812       20101233           1233Gaseosa Koka Kola             50              0
+142812       20101233           2244Galletas de Soda Sayon             30              0
+152812       20101233            250  Huevos Pardos             25              0
+252812       20101233           1233Gaseosa Koka Kola             20              0
+272812       20101233            250  Huevos Pardos             30              0
+22612       21034000           1233Gaseosa Koka Kola             20              0
+42712       21034000           2344Gaseosa Koka Kola Zero             50              0
+42812       21034000           2344Gaseosa Koka Kola Zero             50              0
+112612       20000511           2525 Aceite Vegetal             20              0
+142612       20000511             22Platos Plasticos            100              0
+52712       20000511           2526Papel Higienico Suave Sense             40              0
+122712       20000511           1150   Pollo Entero             10              0
+162712       20000511           2233   Cafe Tostado             30              0
+92812       20000511           1233Gaseosa Koka Kola             20              0
+112812       20000511           6955Jarras de Ceramica China             50              0
+212512       20101888             22Platos Plasticos            100              0
+122612       20101888           1002        Secador             50              0
+152612       20101888           8585Harina preparada de trigo Blanca Nieve Especial             25              0
+102712       20101888           1150   Pollo Entero             10              0
+162712       20101888           2233   Cafe Tostado             30              0
+292812       20101888           2233   Cafe Tostado             10              0
+302812       20101888           2233   Cafe Tostado             10              0
+22612       20201873           2525 Aceite Vegetal             20              0
+42612       20201873           8585Harina preparada de trigo Blanca Nieve Especial             25              0
+172612       20201873           2233   Cafe Tostado             30              0
+172612       20201873           1233Gaseosa Koka Kola             20              0
+282612       20201873           2244Galletas de Soda Sayon             50              0
+102412       24121533           1002        Secador             50              0
+102512       24121533           1233Gaseosa Koka Kola             10              0
+152612       24121533            250  Huevos Pardos             20              0
+182612       24121533           2525 Aceite Vegetal             40              0
+202612       24121533           2526Papel Higienico Suave Sense             20              0
+212612       24121533           1150   Pollo Entero              5              0
+222612       24121533           2233   Cafe Tostado             40              0
+302612       24121533           1233Gaseosa Koka Kola             20              0
+102712       24121533           6955Jarras de Ceramica China             50              0
+122712       24121533            250  Huevos Pardos             40              0

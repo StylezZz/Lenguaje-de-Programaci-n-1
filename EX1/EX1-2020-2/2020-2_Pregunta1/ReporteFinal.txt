@@ -1,0 +1,108 @@
+
+RUC: 20000511
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     11/28/12      6955          Jarras de Ceramica China                                       50             50
+     11/26/12      2525          Aceite Vegetal                                                 20             20
+     9/28/12      1233          Gaseosa Koka Kola                                              20             20
+     16/27/12      2233          Cafe Tostado                                                   30             30
+     12/27/12      1150          Pollo Entero                                                   10              5
+     5/27/12      2526          Papel Higienico Suave Sense                                    40             40
+     14/26/12        22          Platos Plasticos                                              100             50
+
+RUC: 20101000
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     2/26/12      1233          Gaseosa Koka Kola                                              20             20
+     3/29/12      2244          Galletas de Soda Sayon                                         30             30
+     4/29/12       250          Huevos Pardos                                                  20             20
+     19/28/12      2233          Cafe Tostado                                                   10             10
+     20/28/12      1233          Gaseosa Koka Kola                                              20             20
+     20/27/12      1233          Gaseosa Koka Kola                                              10             10
+
+RUC: 20101233
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     27/28/12       250          Huevos Pardos                                                  30              0
+     10/28/12      1233          Gaseosa Koka Kola                                              50             50
+     13/27/12      4545          Pan Integral 20 piezas                                         20             20
+     17/25/12      1233          Gaseosa Koka Kola                                              30             30
+     14/28/12      2244          Galletas de Soda Sayon                                         30             30
+     4/25/12      2344          Gaseosa Koka Kola Zero                                         30             20
+     15/28/12       250          Huevos Pardos                                                  25              0
+     10/25/12      2233          Cafe Tostado                                                   20             20
+     15/26/12       250          Huevos Pardos                                                  20             20
+     10/26/12      2244          Galletas de Soda Sayon                                         40             40
+     10/27/12      2233          Cafe Tostado                                                   20             20
+     25/28/12      1233          Gaseosa Koka Kola                                              20             10
+
+RUC: 20101888
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     30/28/12      2233          Cafe Tostado                                                   10              0
+     29/28/12      2233          Cafe Tostado                                                   10              0
+     12/26/12      1002          Secador                                                        50              0
+     16/27/12      2233          Cafe Tostado                                                   30             30
+     15/26/12      8585          Harina preparada de trigo Blanca Nieve Especial                25              0
+     21/25/12        22          Platos Plasticos                                              100              0
+     10/27/12      1150          Pollo Entero                                                   10             10
+
+RUC: 20201873
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     17/26/12      2233          Cafe Tostado                                                   30             30
+     17/26/12      1233          Gaseosa Koka Kola                                              20             20
+     2/26/12      2525          Aceite Vegetal                                                 20             20
+     28/26/12      2244          Galletas de Soda Sayon                                         50             10
+     4/26/12      8585          Harina preparada de trigo Blanca Nieve Especial                25             25
+
+RUC: 21034000
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     4/27/12      2344          Gaseosa Koka Kola Zero                                         50              0
+     4/28/12      2344          Gaseosa Koka Kola Zero                                         50              0
+     2/26/12      1233          Gaseosa Koka Kola                                              20             20
+
+RUC: 21118080
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     12/26/12      2244          Galletas de Soda Sayon                                         40             40
+     2/26/12      8585          Harina preparada de trigo Blanca Nieve Especial                25             25
+     20/26/12      2233          Cafe Tostado                                                   10             10
+     12/25/12      1002          Secador                                                       100             50
+     12/24/12        22          Platos Plasticos                                              100            100
+     22/26/12      6955          Jarras de Ceramica China                                      100              0
+
+RUC: 22110500
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     2/25/12      2233          Cafe Tostado                                                   20             20
+     10/23/12      1233          Gaseosa Koka Kola                                              20             20
+     10/24/12      2526          Papel Higienico Suave Sense                                    30             10
+     10/25/12      1233          Gaseosa Koka Kola                                              20             20
+     12/24/12      1150          Pollo Entero                                                    5              5
+     20/23/12      2525          Aceite Vegetal                                                 20              0
+     20/25/12       250          Huevos Pardos                                                  20              0
+
+RUC: 24121533
+====================================================================================================
+  Fecha            Cod. Producto                 Producto                                  Cant. solicitada      Cant. Atendida
+====================================================================================================
+     12/27/12       250          Huevos Pardos                                                  40             40
+     20/26/12      2526          Papel Higienico Suave Sense                                    20              0
+     21/26/12      1150          Pollo Entero                                                    5              0
+     18/26/12      2525          Aceite Vegetal                                                 40             10
+     22/26/12      2233          Cafe Tostado                                                   40             30
+     10/27/12      6955          Jarras de Ceramica China                                       50             50
+     10/24/12      1002          Secador                                                        50             50
+     30/26/12      1233          Gaseosa Koka Kola                                              20              0
+     15/26/12       250          Huevos Pardos                                                  20             20
+     10/25/12      1233          Gaseosa Koka Kola                                              10             10
