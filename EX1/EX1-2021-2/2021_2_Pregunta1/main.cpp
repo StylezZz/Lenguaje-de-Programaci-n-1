@@ -27,9 +27,8 @@ int main(int argc, char** argv) {
     cargarPrestamos(fechPrest,codLibPrest,carneUs);
     mostrarLibrosPrestados(fechPrest,codLibPrest,carneUs,tipoUs,"ReporteDePrestamos1.txt");
     procesarSolicitudes(carneUs,tipoUs,nombreUs,fechPrest,codLibPrest,codLibro,cantLibros);
-    cout<<"Se termino de procesar solicitudes"<<endl;
-//    mostrarLibrosPrestados(fechPrest,codLibPrest,carneUs,tipoUs,"ReporteDePrestamos2.txt");    
-//    mostrarLibros(codLibro,cantLibros,"ReporteLibros2.txt");
+    mostrarLibrosPrestados(fechPrest,codLibPrest,carneUs,tipoUs,"ReporteDePrestamos2.txt");    
+    mostrarLibros(codLibro,cantLibros,"ReporteLibros2.txt");
     return 0;
 }
 

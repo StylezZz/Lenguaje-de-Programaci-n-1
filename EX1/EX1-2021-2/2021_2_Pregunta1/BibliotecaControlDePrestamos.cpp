@@ -84,6 +84,31 @@ int buscarCarne(int carne,int *carneUs){
     return -1;
 }
 
+//Irrelevant
+void cargarPedidosCliencte(void *cli, void *pedidos){
+    void **cliDatos = (void**)cli;
+    void **arrPedidos = (void**)pedidos;
+    int esCliente, atendido, numPedidos = 0;
+    void**pedidosCliente, *pedsCliente[100], *pedido;
+    
+    for(int i=0; arrPedidos[i]; i++){
+        if(esCliente){
+            if(atendido){
+                pedsCliente[numPedidos] = pedido;
+                numPedidos++;
+            }
+        }
+    }
+    pedsCliente[numPedidos] = nullptr;
+    numPedidos++;
+    pedidosCliente = new void*[numPedidos];
+    for (int i=0; i<numPedidos; i++){
+        pedidosCliente[i] = pedsCliente[i];
+    }
+    cliDatos[3] = pedidosCliente;
+    
+}
+
 void leerDatos(int &carne,int &fecha,char &tipo,char *&codLib,ifstream &arch){
     arch>>carne>>tipo;
     if(arch.eof())return;
